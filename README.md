@@ -54,6 +54,6 @@ Este projeto foi desenvolvido para a **AgilStore**, uma pequena loja de eletrôn
    git clone https://github.com/seu-usuario/agilstore.git
 2. **Instale as dependências:**
    npm install
-3. **Execute o aplicativo**
+3. **Execute o aplicativo:**
    node main.js
 
